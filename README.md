@@ -6,7 +6,6 @@ I'm a chemical engineer with 10 years in process safety, now moving into AI prod
 ## Projects
 
 **Sales Agent AI** · Capstone · [Code](https://github.com/anuraghegde91-tech/sales-agent-ai)
-
 Sales reps for hospital software have little time to prepare for meetings. We built an app that researches the hospital and the contact and sends the rep a short brief on WhatsApp. I worked on the product side with a team of six and built the core with AI-assisted coding.
 
 **ThermaSafe AI** · Private
