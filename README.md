@@ -5,15 +5,13 @@ I'm a chemical engineer with 10 years in process safety, now moving into AI prod
 
 ## Projects
 
-**Sales Agent AI** · Capstone · [Code](https://github.com/anuraghegde91-tech/sales-agent-ai)
+**Sales Agent AI** · Capstone · [Code](https://github.com/anuraghegde91-tech/sales-agent-ai)\
 Sales reps for hospital software have little time to prepare for meetings. We built an app that researches the hospital and the contact and sends the rep a short brief on WhatsApp. I worked on the product side with a team of six and built the core with AI-assisted coding.
 
-**ThermaSafe AI** · Private
-
+**ThermaSafe AI** · Private\
 Exploring whether AI can take thermal lab data and help draft a hazard report. I've written the requirements, acceptance criteria and human review steps. Working prototype, still in development.
 
-**KP Astrology Chart Explorer** · Private
-
+**KP Astrology Chart Explorer** · Private\
 A personal project. A working local prototype that calculates house cusps, planetary positions and Vimshottari dasha.
 
 The source code for my private projects isn't public.
