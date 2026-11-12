@@ -2,7 +2,6 @@
 
 I'm a chemical engineer with 10 years in process safety, now moving into AI product management. For most of my career my job was to say go or no-go on chemical products and processes before they were scaled up. A lot of it was explaining thermal hazard data to R&D, engineering and commercial teams in a way that made sense to them. I want to keep doing that kind of work, but on AI products.
 
-At BASF I handled go/no-go decisions for 200+ products and 50+ processes, and cut safety review time from 3 to 7 days to 1 day.
 
 ## Projects
 
